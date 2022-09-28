@@ -1,1 +1,1 @@
-# .github
+AI powered note taking software
